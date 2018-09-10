@@ -20,7 +20,7 @@ const Tab1 = createStackNavigator(
     Tab1Details: {
       screen: Tab1Details,
       navigationOptions: {
-        headerTitle: "Tab 1 without botton bar"
+        headerTitle: "Tab 1 without bottom bar"
       }
     }
   }
